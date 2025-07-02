@@ -21,9 +21,9 @@ while [[ "$currentDate" -le "$endDateFormatted" ]]; do
     globalDownload.py --verbose \
                       --url=http://cedar.openmadrigal.org \
                       --outputDir=data/madrigal \
-                      --user_fullname="Diego+Sanchez" \
-                      --user_email=diego.sanchez@scranton.edu \
-                      --user_affiliation="University+of+Scranton" \
+                      --user_fullname="Haig+Bananian" \
+                      --user_email=hbananian@gmail.com \
+                      --user_affiliation="APL" \
                       --format="hdf5" \
                       --startDate="$formattedStartDate" \
                       --endDate="$formattedEndDate" \
