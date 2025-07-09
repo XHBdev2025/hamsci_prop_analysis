@@ -1,3 +1,4 @@
+#needs to be updated with mac, linux vm script as well, as this doesn't run well with that
 #!/bin/bash
 
 # Define the start and end dates
